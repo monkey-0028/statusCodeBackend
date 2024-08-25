@@ -1,0 +1,14 @@
+[
+    {
+      "email": "saitanbala28@gmail.com",
+      "password": "password",
+      "name": "testUser",
+      "ownedJobId": [1],
+      "appliedJobId":[],
+      "jobGivenId":[],
+      "tags":["Household","Errand"],
+      "rating":0,
+      "acAge":"old"
+    }
+  ]
+  

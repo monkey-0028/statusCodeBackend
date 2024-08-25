@@ -1,0 +1,20 @@
+[
+    {
+      "jobID":1,
+      "ownerEmail":"saitanbala28@gmail.com",
+      "tags":["Household"],
+      "appliedUsers":[]
+    },
+    {
+      "jobID":2,
+      "ownerEmail":"testUser1@gmail.com",
+      "tags": ["Household","Pet Care"],
+      "appliedUsers":["userthisEmail","userthatemail.com"]
+    },
+    {
+      "jobID":3,
+      "ownerEmail": "testUser1@gmail.com",
+      "tags": ["Household","Errand"],
+      "appliedUsers": ["userthisEmail"]
+    }
+  ]
