@@ -1,20 +1,27 @@
 [
     {
       "jobID":1,
+      "title":"washing clothes",
+      "des": "i am going to attend meeting, so i want someone to clean my clothes",
       "ownerEmail":"saitanbala28@gmail.com",
       "tags":["Household"],
       "appliedUsers":[]
     },
     {
       "jobID":2,
+      "title":"babysit my dog",
+      "des": "i am going to my family funeral, somebody please take care of my dog",
       "ownerEmail":"testUser1@gmail.com",
       "tags": ["Household","Pet Care"],
       "appliedUsers":["userthisEmail","userthatemail.com"]
     },
     {
       "jobID":3,
+      "title": "Buy Grocery",
+      "des": "i have exams and i won't have time to buy groceries.",
       "ownerEmail": "testUser1@gmail.com",
       "tags": ["Household","Errand"],
       "appliedUsers": ["userthisEmail"]
     }
   ]
+  
