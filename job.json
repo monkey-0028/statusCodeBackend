@@ -5,7 +5,8 @@
       "des": "i am going to attend meeting, so i want someone to clean my clothes",
       "ownerEmail":"saitanbala28@gmail.com",
       "tags":["Household"],
-      "appliedUsers":[]
+      "appliedUsers":[],
+      "price": 300
     },
     {
       "jobID":2,
@@ -13,7 +14,8 @@
       "des": "i am going to my family funeral, somebody please take care of my dog",
       "ownerEmail":"testUser1@gmail.com",
       "tags": ["Household","Pet Care"],
-      "appliedUsers":["userthisEmail","userthatemail.com"]
+      "appliedUsers":["userthisEmail","userthatemail.com"],
+      "price": 800
     },
     {
       "jobID":3,
@@ -21,7 +23,8 @@
       "des": "i have exams and i won't have time to buy groceries.",
       "ownerEmail": "testUser1@gmail.com",
       "tags": ["Household","Errand"],
-      "appliedUsers": ["userthisEmail"]
+      "appliedUsers": ["userthisEmail"],
+      "price": 200
     }
   ]
   
